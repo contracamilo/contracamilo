@@ -12,8 +12,8 @@
 	<img  src="https://img.shields.io/badge/-vue-%23222326"  alt="Vue"/>
 	<img  src="https://img.shields.io/badge/-NodeJs-%23222326"  alt="NodeJs"/>
 	<img  src="https://img.shields.io/badge/-MongoDB-%23222326"  alt="MongoDB"/>
-	<img  src="https://img.shields.io/badge/-Bootstrap-%23222326"  alt="Bootstrap"/>
-	<img  src="https://img.shields.io/badge/-Azure Devops-%23222326" alt="AdobeXD"/>
+	<img  src="https://img.shields.io/badge/-Saas%2FLess%2FStylus-%23222326"  alt="Saas-Less-Stylus"/>
+	<img  src="https://img.shields.io/badge/-Azure Devops-%23222326" alt="Azure Devops"/>
 </details>
 
 
