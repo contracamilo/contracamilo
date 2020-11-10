@@ -8,12 +8,15 @@ I have been building apps for over 3+ years, focusing on Full Stack JavaScript p
 	<br/>
 	<img src="https://img.shields.io/badge/-HTML%2FCSS-%23222326" alt="HTML/CSS"/>
 	<img src="https://img.shields.io/badge/-JavaScript-%23222326" alt="Javascript"/>
+	<img src="https://img.shields.io/badge/-Unit Testing-%23222326" alt="Unit Testing"/>
+	<img src="https://img.shields.io/badge/-StoryBook-%23222326" alt="StoryBook"/>
+	<img src="https://img.shields.io/badge/-A11y-%23222326" alt="A11y"/>
 	<img  src="https://img.shields.io/badge/-React-%23222326"  alt="React"/>
 	<img  src="https://img.shields.io/badge/-Angular-%23222326"  alt="Angular"/>
 	<img  src="https://img.shields.io/badge/-vue-%23222326"  alt="Vue"/>
 	<img  src="https://img.shields.io/badge/-NodeJs-%23222326"  alt="NodeJs"/>
 	<img  src="https://img.shields.io/badge/-MongoDB-%23222326"  alt="MongoDB"/>
-	<img  src="https://img.shields.io/badge/-Saas%2FLess%2FStylus-%23222326"  alt="Sass-Less-Stylus"/>
+	<img  src="https://img.shields.io/badge/-Sass%2FLess%2FStylus-%23222326"  alt="Sass-Less-Stylus"/>
 	<img  src="https://img.shields.io/badge/-Azure Devops-%23222326" alt="Azure Devops"/>
 	<img src="https://img.shields.io/badge/-PHP-%23222326" alt="PHP"/>
 </details>
