@@ -22,7 +22,6 @@ I have been building apps for over 4+ years, focusing on Full Stack JavaScript p
 	<img  src="https://img.shields.io/badge/-posgreSQL-%23222326"  alt="posgreSQL"/>
 	<img  src="https://img.shields.io/badge/-Sass%2FLess%2FStylus-%23222326"  alt="Sass-Less-Stylus"/>
 	<img  src="https://img.shields.io/badge/-Azure Devops-%23222326" alt="Azure Devops"/>
-	<img src="https://img.shields.io/badge/-PHP-%23222326" alt="PHP"/>
 </details>
 
 
