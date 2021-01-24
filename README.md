@@ -14,8 +14,12 @@ I have been building apps for over 4+ years, focusing on Full Stack JavaScript p
 	<img  src="https://img.shields.io/badge/-React-%23222326"  alt="React"/>
 	<img  src="https://img.shields.io/badge/-Angular-%23222326"  alt="Angular"/>
 	<img  src="https://img.shields.io/badge/-vue-%23222326"  alt="Vue"/>
+	<img  src="https://img.shields.io/badge/-Svelte-%23222326"  alt="Svelte"/>
 	<img  src="https://img.shields.io/badge/-NodeJs-%23222326"  alt="NodeJs"/>
+	<img  src="https://img.shields.io/badge/-Express-%23222326"  alt="Express"/>
 	<img  src="https://img.shields.io/badge/-MongoDB-%23222326"  alt="MongoDB"/>
+	<img  src="https://img.shields.io/badge/-cosmoDB-%23222326"  alt="cosmoDB"/>
+	<img  src="https://img.shields.io/badge/-posgreSQL-%23222326"  alt="posgreSQL"/>
 	<img  src="https://img.shields.io/badge/-Sass%2FLess%2FStylus-%23222326"  alt="Sass-Less-Stylus"/>
 	<img  src="https://img.shields.io/badge/-Azure Devops-%23222326" alt="Azure Devops"/>
 	<img src="https://img.shields.io/badge/-PHP-%23222326" alt="PHP"/>
