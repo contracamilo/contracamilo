@@ -1,7 +1,7 @@
 ### Hi there, I'm Camilo! 👋
 ---
 <h4 align="start">Software Developer from Colombia.</h3>  
-I have been building apps for over 4+ years, focusing on Full Stack JavaScript projects, originally UI/UX designer turned Software Developer. I like to create and code interfaces for good human understanding and leave my mark on usable products. I´ve participated in multiple projects with multinational companies.<br>
+I have been building apps for over 5+ years, focusing on Full Stack JavaScript projects, originally UI/UX designer turned Software Developer. I like to create and code interfaces for good human understanding and leave my mark on usable products. I´ve participated in multiple projects with multinational companies.<br>
 <br>
 <details>
 	<summary>&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/K5cyGgD/icons8-checkmark-52.png" width="20px" height="20px" /> <b>Skills</b></summary>
