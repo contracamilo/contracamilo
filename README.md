@@ -28,6 +28,6 @@ I have been building apps for over 5+ years, focusing on Full Stack JavaScript p
 <h4 align="left">Connect with me:</h4>  
 <p align="left">  
 <a href="https://twitter.com/CamiOs6" target="_blank"><img align="center" src="https://i.ibb.co/M76GHd7/icons8-twitter-50.png" alt="CamiOs6" height="25" width="25" /></a>  
-<a href="https://www.linkedin.com/in/camilo-rivera-quintero-395266b3/" target="_blank"><img align="center" src="https://i.ibb.co/DMDtZ81/icons8-linkedin-50.png" alt="camilo-rivera-quintero-395266b3" height="25" width="25" /></a>   
+<a href="https://www.linkedin.com/in/camilo-rivera-q/?locale=en_US" target="_blank"><img align="center" src="https://i.ibb.co/DMDtZ81/icons8-linkedin-50.png" alt="camilo-rivera-quintero-395266b3" height="25" width="25" /></a>   
 <a href="https://www.camilorivera.click" target="_blank"><img align="center" src="https://i.ibb.co/Rv62tjR/icons8-website-64.png" alt="www.camilorivera.xyz" height="25" width="25" /></a>  
 </p>
