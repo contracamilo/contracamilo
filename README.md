@@ -7,7 +7,7 @@ Based in Bogotá, Col.
 <br>
 <br>
 <details>
-	<h4>Tech and Tools:</h4>
+	<h4>Tech and Tool & Methodologiess:</h4>
 	<ul>
 		<li> Main language: JavaScript/ TS </li>
 		<li>  Other languages: Python, Java, Ruby, PHP </li>
@@ -22,9 +22,8 @@ Based in Bogotá, Col.
 		<li>  DB: MongoDB, CosmosDB, PosgreSQL, MySQL </li>
 		<li>  Unit Testing, Integration testing, E2E testing </li>
 		<li>  StoryBook </li>
+		<li> Agile, Kanban, Scrum, TDD, CI and others. </li>
 	</ul>
-
-	<h4>Methodologies: Agile, Kanban, Scrum, TDD, CI and others.</h4>
 </details>
 
 
