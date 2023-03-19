@@ -1,7 +1,7 @@
 ### Hi there, I'm Camilo! 👋
 ---
 <h4 align="start">Software Developer from Colombia.</h3>  
-With over 6 years of experience in app development, I specialize in full-stack JavaScript projects, transitioning from a UI/UX designer to a software developer. I strive to design user-friendly interfaces and leave a lasting impact on usable products. I have contributed to various projects with multinational companies and I'm currently furthering my education to become a software engineer.
+With over 6 years of experience in app development, I'm specialized in full-stack JavaScript projects, transitioning from a UI/UX designer to a software developer. I strive to design user-friendly interfaces and leave a lasting impact on usable products. I have contributed to various projects with multinational companies and I'm currently furthering my education to become a software engineer.
 
 Based in Bogotá, Col.
 <br>
