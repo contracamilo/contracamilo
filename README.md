@@ -1,11 +1,11 @@
 ### Hi there, I'm Camilo! 👋
 ---
 <h4 align="start">Software Developer from Colombia.</h3>  
-I am Camilo Rivera, a front-end developer with over 7 years of experience crafting web applications. Specializing in JavaScript apps, I combine meticulous attention to detail with a strong commitment to adaptability and accessibility.
+<p>I'm Camilo Rivera, a front-end developer with over 7 years of experience crafting web applications. Specializing in JavaScript apps, I combine meticulous attention to detail with a strong commitment to adaptability and accessibility.</p>
 <br>
-I have helped companies across various industries achieve their goals by successfully developing high-quality front-end web applications, adhering to industry standards, and collaborating with client teams to define and deliver complex solutions from inception to production release.
+<p>I have helped companies across various industries achieve their goals by successfully developing high-quality front-end web applications, adhering to industry standards, and collaborating with client teams to define and deliver complex solutions from inception to production release.</p>
 <br>
-Based in Barcelona, Esp.
+<p>Based in Barcelona, Esp.</p>
 <br>
 <br>
 <details>
