@@ -5,8 +5,6 @@
 
 <p>I am Camilo Rivera, a seasoned Front-End Developer with over seven years of experience. I specialize in creating digital experiences using cutting-edge technologies, capable of working across various frameworks and languages. My passion for transforming innovative ideas into interactive realities has allowed me to make significant contributions to multinational projects. Notably, I was part of a team that led an Ecommerce project to surpass $600 billion in revenue for the first time in its history in 2023.</p>
 
-<p>I have enabled companies across multiple industries to meet their objectives by expertly developing high-quality front-end web applications. My approach includes adhering to industry standards and collaborating closely with client teams to define and implement complex solutions from concept through to production release.</p>
-
 <p>I pride myself on crafting high-level digital experiences, utilizing my strong front-end skills and adhering to best practices. I am committed to maximizing every opportunity to make a lasting impact and deliver exceptional results.
 
 <p> As a proactive, goal-oriented individual with a strong problem-solving mindset, I excel in interpersonal relations. My work has helped companies from diverse industries achieve their goals by successfully developing high-quality front-end web applications. I actively collaborate with client teams to define and deliver complex solutions from inception to production release.</p>
