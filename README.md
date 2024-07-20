@@ -1,7 +1,6 @@
 ### Hi there, I'm Camilo! 👋
 ---
-<h4 align="start">Software Developer from Colombia. </h3> 
-<span>Focused on frontend with fukllstack mindset</span>
+<h4 align="start">Software Engineer</h3> 
 
 <p>I am Camilo Rivera, a seasoned Front-End Developer with over seven years of experience. I specialize in creating digital experiences using cutting-edge technologies, capable of working across various frameworks and languages. My passion for transforming innovative ideas into interactive realities has allowed me to make significant contributions to multinational projects. Notably, I was part of a team that led an Ecommerce project to surpass $600 billion in revenue for the first time in its history in 2023.</p>
 
