@@ -2,7 +2,7 @@
 ---
 <h4 align="start">Software Engineer</h3> 
 
-<p>I am Camilo Rivera, a seasoned Software Engineer with over seven years of experience. I specialize in creating digital experiences using cutting-edge technologies, capable of working across various frameworks and languages. My passion for transforming innovative ideas into interactive realities has allowed me to make significant contributions to multinational projects. Notably, I was part of a team that led an Ecommerce project to surpass $600 billion in revenue for the first time in its history in 2023.</p>
+<p>I am Camilo Rivera, a seasoned Software Engineer with over eight years of experience. I specialize in creating digital experiences using cutting-edge technologies, capable of working across various frameworks and languages. My passion for transforming innovative ideas into interactive realities has allowed me to make significant contributions to multinational projects. Notably, I was part of a team that led an Ecommerce project to surpass $600 billion in revenue for the first time in its history in 2023.</p>
 
 <p>I pride myself on crafting high-level digital experiences, utilizing my strong front-end skills and adhering to best practices. I am committed to maximizing every opportunity to make a lasting impact and deliver exceptional results.
 
