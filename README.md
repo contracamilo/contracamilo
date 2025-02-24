@@ -1,4 +1,10 @@
 ### Hi there, I'm Camilo! 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=contracamilo&label=Profile%20views&color=0e75b6&style=flat" alt="contracamilo" style="margin-right: 10px;"/>
+  <img src="https://www.codewars.com/users/CamiloCase/badges/small" alt="Codewars Badge"/>
+</p>
+
 ---
 <h4 align="start">Software Engineer</h3> 
 
