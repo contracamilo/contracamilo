@@ -10,27 +10,16 @@
 
 <br>
 <p>Based in Barcelona, Esp.</p>
-<br>
-<br>
-<details>
-	<h4>Tech and Tool & Methodologiess:</h4>
-	<ul>
-		<li> Main language: JavaScript/ TS </li>
-		<li>  Other languages: Python, Java, Ruby, PHP </li>
-		<li>  Front Frameworks: React, VUE, Svelte, Angular and so forth  </li>
-		<li>  Pure CSS and preprocessors as SASS, LESS and so forth </li>
-		<li>  CSS frameworks: Tailwind, Bootstrap, Tachyons, MUI</li>
-		<li>  Version Control: GIT</li>
-		<li>  A11y </li>
-		<li>  i18N </li>
-		<li>  Backend: NodeJs, Express, Django, Flask, SpringBoot </li>
-		<li>  GraphQL </li>
-		<li>  DB: MongoDB, CosmosDB, PosgreSQL, MySQL </li>
-		<li>  Unit Testing, Integration testing, E2E testing </li>
-		<li>  StoryBook </li>
-		<li> Agile, Kanban, Scrum, TDD, CI and others. </li>
-	</ul>
-</details>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/contracamilo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=contracamilo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=contracamilo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <h4 align="left">Connect with me:</h4>  
