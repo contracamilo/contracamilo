@@ -21,7 +21,7 @@
 <p> As a proactive, goal-oriented individual with a strong problem-solving mindset, I excel in interpersonal relations. My work has helped companies from diverse industries achieve their goals by successfully developing high-quality front-end web applications. I actively collaborate with client teams to define and deliver complex solutions from inception to production release.</p>
 
 <br>
-<p>Based in Barcelona, Esp.</p>
+<p>Based in Spain</p>
 
 <br>
 
