@@ -3,7 +3,6 @@
 
 <p align="right">  
 <a href="https://www.linkedin.com/in/camilo-rivera-q/?locale=en_US" target="_blank">Linked In</a>   
-<a href="https://www.camilorivera.click" target="_blank"><img align="center" src="https://i.ibb.co/Rv62tjR/icons8-website-64.png" alt="www.camilorivera.xyz" height="25" width="25" /></a>  
 </p>
 
 <p align="left">
