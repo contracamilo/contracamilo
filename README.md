@@ -10,9 +10,6 @@
 - **AI & Future-Readiness:** Actively experimenting with AI Agents and LLMs to redefine the SDLC and build intelligent, resilient products for the next 5 years of tech evolution.
 - **Mindset:** Pragmatic, direct, and focused on maintainability. I prioritize systems that work under pressure over the latest industry hype.
 
-Based in Spain | Remote-ready.
-
-
 **Based in Spain | Remote-ready.**
 
 ## ⚙️ &nbsp;GitHub Analytics
