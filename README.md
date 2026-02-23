@@ -1,22 +1,12 @@
-# Hi there, I'm Camilo Senior Software Engineer! 👋
+# Hi there, I'm Camilo Senior Software Engineer | High-Scale Systems! 👋
 
+<p>8+ years of engineering for global leaders including ING, Inditex, Walmart, and EY. Focused on building resilient, high-performance architecture for massive-scale environments.</p>
 
-<p align="right">  
-<a href="https://www.linkedin.com/in/camilo-rivera-q/?locale=en_US" target="_blank">Linked In</a>   
-</p>
+- Impact: Built frontend infrastructure for a retail ecosystem processing $600B+ in revenue.
+- Expertise: High-availability systems, performance optimization, and scalable web architecture.
+- Mindset: Framework-agnostic and pragmatic. I prioritize production stability and long-term maintainability over hype.
 
-
----
-
-<p>9+ years of engineering resilient, high-availability systems for global leaders in Banking, Retail, and Consulting. Framework-agnostic leader focused on performance, security, and massive-scale scalability.</p>
-
-<p>Tier-1 Industry Impact: Proven track record delivering core infrastructure for ING, Inditex, Walmart, Sodimac, and EY.
-
-The $600B Milestone: Key contributor to the frontend architecture of a global retail ecosystem surpassing $600B in revenue (2023).
-
-Expert in solving complex bottlenecks in high-transaction environments where performance and security are non-negotiable.</p>
-
-<p>Future-Driven: Specialized in AI-augmented SDLC and building long-term, maintainable architectures that survive the 5-year technology cycle.</p>
+Based in Spain | Remote-ready.</p>
 
 
 <p>Based in Europe</p>
@@ -30,5 +20,3 @@ Expert in solving complex bottlenecks in high-transaction environments where per
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=contracamilo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-let's keep in touch!!
