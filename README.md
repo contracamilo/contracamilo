@@ -1,4 +1,4 @@
-# Hi there, I'm Camilo Senior Software Engineer | High-Scale Systems! 👋
+# Hi there! 👋
 
 <p>8+ years of engineering for global leaders including ING, Inditex, Walmart, and EY. Focused on building resilient, high-performance architecture for massive-scale environments.</p>
 
