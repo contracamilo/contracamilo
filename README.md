@@ -6,10 +6,10 @@
 - Expertise: High-availability systems, performance optimization, and scalable web architecture.
 - Mindset: Framework-agnostic and pragmatic. I prioritize production stability and long-term maintainability over hype.
 
-Based in Spain | Remote-ready.</p>
+
+<p>Based in Spain | Remote-ready.</p>
 
 
-<p>Based in Europe</p>
 
 
 ## ⚙️ &nbsp;GitHub Analytics
