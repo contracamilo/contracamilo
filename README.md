@@ -1,4 +1,4 @@
-# Hi there, I'm Camilo! 👋
+# Hi there, I'm Camilo Senior Software Engineer | High-Scale Architecture & Critical Systems! 👋
 
 
 <p align="right">  
@@ -12,14 +12,18 @@
 
 ---
 
-<p>I am Camilo Rivera, a seasoned Software Engineer with over eight years of experience. I specialize in creating digital experiences using cutting-edge technologies, capable of working across various frameworks and languages. My passion for transforming innovative ideas into interactive realities has allowed me to make significant contributions to multinational projects. Notably, I was part of a team that led an Ecommerce project to surpass $600 billion in revenue for the first time in its history in 2023.</p>
+<p>9+ years of engineering resilient, high-availability systems for global leaders in Banking, Retail, and Consulting. Framework-agnostic leader focused on performance, security, and massive-scale scalability.</p>
 
-<p>I pride myself on crafting high-level digital experiences, utilizing my strong front-end skills and adhering to best practices. I am committed to maximizing every opportunity to make a lasting impact and deliver exceptional results.
+<p>Tier-1 Industry Impact: Proven track record delivering core infrastructure for ING, Inditex, Walmart, Sodimac, and EY.</p>
 
-<p> As a proactive, goal-oriented individual with a strong problem-solving mindset, I excel in interpersonal relations. My work has helped companies from diverse industries achieve their goals by successfully developing high-quality front-end web applications. I actively collaborate with client teams to define and deliver complex solutions from inception to production release.</p>
+<p>The $600B Milestone: Key contributor to the frontend architecture of a global retail ecosystem surpassing $600B in revenue (2023).</p>
+
+<p>Technical Authority: Expert in solving complex bottlenecks in high-transaction environments where performance and security are non-negotiable.</p>
+
+<p>Future-Driven: Specialized in AI-augmented SDLC and building long-term, maintainable architectures that survive the 5-year technology cycle.</p>
 
 
-<p>Based in Spain</p>
+<p>Based in Europe</p>
 
 
 ## ⚙️ &nbsp;GitHub Analytics
