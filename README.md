@@ -1,23 +1,20 @@
-# Hi there, I'm Camilo Senior Software Engineer | High-Scale Architecture & Critical Systems! 👋
+# Hi there, I'm Camilo Senior Software Engineer! 👋
 
 
 <p align="right">  
 <a href="https://www.linkedin.com/in/camilo-rivera-q/?locale=en_US" target="_blank">Linked In</a>   
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=contracamilo&label=Profile%20views&color=0e75b6&style=flat" alt="contracamilo" style="margin-right: 10px;"/>
-</p>
 
 ---
 
 <p>9+ years of engineering resilient, high-availability systems for global leaders in Banking, Retail, and Consulting. Framework-agnostic leader focused on performance, security, and massive-scale scalability.</p>
 
-<p>Tier-1 Industry Impact: Proven track record delivering core infrastructure for ING, Inditex, Walmart, Sodimac, and EY.</p>
+<p>Tier-1 Industry Impact: Proven track record delivering core infrastructure for ING, Inditex, Walmart, Sodimac, and EY.
 
-<p>The $600B Milestone: Key contributor to the frontend architecture of a global retail ecosystem surpassing $600B in revenue (2023).</p>
+The $600B Milestone: Key contributor to the frontend architecture of a global retail ecosystem surpassing $600B in revenue (2023).
 
-<p>Expert in solving complex bottlenecks in high-transaction environments where performance and security are non-negotiable.</p>
+Expert in solving complex bottlenecks in high-transaction environments where performance and security are non-negotiable.</p>
 
 <p>Future-Driven: Specialized in AI-augmented SDLC and building long-term, maintainable architectures that survive the 5-year technology cycle.</p>
 
