@@ -18,7 +18,7 @@
 
 <p>The $600B Milestone: Key contributor to the frontend architecture of a global retail ecosystem surpassing $600B in revenue (2023).</p>
 
-<p>Technical Authority: Expert in solving complex bottlenecks in high-transaction environments where performance and security are non-negotiable.</p>
+<p>Expert in solving complex bottlenecks in high-transaction environments where performance and security are non-negotiable.</p>
 
 <p>Future-Driven: Specialized in AI-augmented SDLC and building long-term, maintainable architectures that survive the 5-year technology cycle.</p>
 
