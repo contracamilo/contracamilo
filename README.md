@@ -18,10 +18,4 @@ I've worked across banking and trading, fashion, retail, ecommerce and consultin
 
 ## Now
 
-I'm moving toward data science and AI engineering to pair my product experience with a solid data foundation: a specialization in statistical analysis (La Salle) and then a Master's in Data Science (UOC). I keep the plan public: [interactive roadmap](https://ruta-ciencia-de-datos.vercel.app) · [source](https://github.com/contracamilo/ruta-ciencia-de-datos).
-
-## Public repositories
-
-Some of my public repos: [`ruta-ciencia-de-datos`](https://github.com/contracamilo/ruta-ciencia-de-datos) (the roadmap above) and [`shift-planner`](https://github.com/contracamilo/shift-planner) (a Claude Code demo with TanStack Query, Zustand and MSW). Many of the rest are university coursework.
-
-I do my best work in teams with clear ownership and communication, shipping things people actually use.
+I'm moving toward data science and AI engineering to pair my product experience with a solid data foundation: a specialization in statistical analysis (La Salle) and then a Master's in Data Science (UOC).
